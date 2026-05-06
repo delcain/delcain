@@ -4,8 +4,6 @@
 
 Profissional de Tecnologia da Informação com mais de 20 anos de experiência em infraestrutura, suporte corporativo, redes, servidores, automação, monitoramento e gestão completa de ambientes de TI para empresas.
 
-Atuo principalmente com escritórios de advocacia, corretoras de seguros, associações e sindicatos, entregando uma operação de TI estável, segura e previsível, sem a necessidade de equipe interna dedicada.
-
 Tenho forte atuação em:
 
 - Infraestrutura Corporativa
